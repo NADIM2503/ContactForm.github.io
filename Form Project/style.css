@@ -1,0 +1,69 @@
+.main-div {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(https://c1.wallpaperflare.com/preview/685/952/1014/desktop-desktop-background-desktop-backgrounds-desktop-wallpaper.jpg)
+}
+
+.blank {
+    height: 100px;
+    width: 100%;
+}
+
+.white-div {
+    background-color: white;
+    width: 80vw !important;
+}
+
+.contact {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 50px;
+    color: rgb(99, 102, 106);
+}
+
+.cursive {
+    font-size: 50px;
+    color: #acadaf;
+    font-weight: 100;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Dancing Script', cursive;
+}
+
+.input {
+    height: 45px;
+    width: 500px;
+}
+
+#message {
+    height: 150px !important;
+}
+
+.send {
+    font-weight: 200;
+}
+
+.send-but {
+    height: 40px;
+    width: 100px;
+    color: white !important;
+    background-color: rgb(99, 102, 106) !important;
+    font-weight: 200;
+}
+
+.phone-text {
+    font-size: 15px;
+    color: #acadaf !important;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.num {
+    font-weight: 200;
+}
+
+.icons {
+    color: rgb(99, 102, 106);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
